@@ -12,13 +12,6 @@ a new username.
 
 ``` shell
   swipl -s bubba.pdb
-
-  ?- s(L, []).
-  L = [bu, ba] ;
-  L = [bu, b, ba] ;
-  L = [bu, b, b, ba] ;
-  L = [bu, b, b, b, ba] ;
-  L = [bu, b, b, b, b, ba] .
 ```
 
 ## Screenshot
