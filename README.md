@@ -15,3 +15,4 @@ a new username.
 ```
 
 ## Screenshot
+![screenshot of generated bubba string](https://github.com/swapnilraj/bubba-gen/raw/master/img/screen.png)
