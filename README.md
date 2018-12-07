@@ -12,12 +12,14 @@ a new username.
 ## How to run?
 
 Run the prolog version:
+
 ``` shell
   swipl -s bubba.pdb
 ```
 
 Run the brainfuck version:
-This [online version](https://fatiherikli.github.io/brainfuck-visualizer/)
+
+This [online version](https://bit.ly/2QEKZpD)
 has pretty good visualizations.
 
 ## Screenshots
